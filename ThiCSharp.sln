@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiCSharp", "ThiCSharp\ThiCSharp.csproj", "{2B2349C1-D6DF-45B2-AAA2-FDE30805B543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryExample", "GeometryExample\GeometryExample.csproj", "{2535DB0F-5AE9-4377-A933-D75A0FE0D698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2", "Ex2\Ex2.csproj", "{2455ED75-48F7-4F39-B6E1-3707F2C760AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2349C1-D6DF-45B2-AAA2-FDE30805B543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2349C1-D6DF-45B2-AAA2-FDE30805B543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2349C1-D6DF-45B2-AAA2-FDE30805B543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2349C1-D6DF-45B2-AAA2-FDE30805B543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2535DB0F-5AE9-4377-A933-D75A0FE0D698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2535DB0F-5AE9-4377-A933-D75A0FE0D698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2535DB0F-5AE9-4377-A933-D75A0FE0D698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2535DB0F-5AE9-4377-A933-D75A0FE0D698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2455ED75-48F7-4F39-B6E1-3707F2C760AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2455ED75-48F7-4F39-B6E1-3707F2C760AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2455ED75-48F7-4F39-B6E1-3707F2C760AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2455ED75-48F7-4F39-B6E1-3707F2C760AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

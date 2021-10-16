@@ -1,0 +1,6 @@
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\bin\Debug\GeometryExample.exe
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\bin\Debug\GeometryExample.pdb
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\obj\Debug\GeometryExample.exe
+F:\HocWeb\C#\BT_C#\ThiCSharp\GeometryExample\obj\Debug\GeometryExample.pdb

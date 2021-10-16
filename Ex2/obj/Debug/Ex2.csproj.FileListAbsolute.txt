@@ -1,0 +1,6 @@
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\bin\Debug\Ex2.exe
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\bin\Debug\Ex2.pdb
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\obj\Debug\Ex2.exe
+F:\HocWeb\C#\BT_C#\ThiCSharp\Ex2\obj\Debug\Ex2.pdb
